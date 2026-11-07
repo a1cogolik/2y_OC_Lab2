@@ -1,0 +1,290 @@
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power
+Возведение в степень 10 (1 потоков)...
+Прогресс: 100%
+Время (power): 12029 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power
+Возведение в степень 10 (1 потоков)...
+Прогресс: 100%
+Время (power): 11780 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power
+Возведение в степень 10 (1 потоков)...
+Прогресс: 100%
+Время (power): 11786 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power
+Возведение в степень 10 (1 потоков)...
+Прогресс: 100%
+Время (power): 12318 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power
+Возведение в степень 10 (1 потоков)...
+Прогресс: 100%
+Время (power): 11798 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power
+Возведение в степень 10 (2 потоков)...
+Прогресс: 100%
+Время (power): 7125 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power
+Возведение в степень 10 (2 потоков)...
+Прогресс: 100%
+Время (power): 7196 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power
+Возведение в степень 10 (2 потоков)...
+Прогресс: 100%
+Время (power): 7079 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power
+Возведение в степень 10 (2 потоков)...
+Прогресс: 100%
+Время (power): 7032 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power
+Возведение в степень 10 (2 потоков)...
+Прогресс: 100%
+Время (power): 7061 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power
+Возведение в степень 10 (3 потоков)...
+Прогресс: 100%
+Время (power): 6282 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power
+Возведение в степень 10 (3 потоков)...
+Прогресс: 100%
+Время (power): 6175 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power
+Возведение в степень 10 (3 потоков)...
+Прогресс: 100%
+Время (power): 6119 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power
+Возведение в степень 10 (3 потоков)...
+Прогресс: 100%
+Время (power): 6123 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power
+Возведение в степень 10 (3 потоков)...
+Прогресс: 100%
+Время (power): 6149 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power
+Возведение в степень 10 (4 потоков)...
+Прогресс: 100%
+Время (power): 5619 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power
+Возведение в степень 10 (4 потоков)...
+Прогресс: 100%
+Время (power): 5616 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power
+Возведение в степень 10 (4 потоков)...
+Прогресс: 100%
+Время (power): 5622 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power
+Возведение в степень 10 (4 потоков)...
+Прогресс: 100%
+Время (power): 5613 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power
+Возведение в степень 10 (4 потоков)...
+Прогресс: 100%
+Время (power): 5644 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power_bad
+Возведение в степень (BAD) 10 (1 потоков)...
+Прогресс: 100%
+Время (power_bad): 12027 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power_bad
+Возведение в степень (BAD) 10 (1 потоков)...
+Прогресс: 100%
+Время (power_bad): 11865 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power_bad
+Возведение в степень (BAD) 10 (1 потоков)...
+Прогресс: 100%
+Время (power_bad): 12095 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power_bad
+Возведение в степень (BAD) 10 (1 потоков)...
+Прогресс: 100%
+Время (power_bad): 12086 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 1 53 power_bad
+Возведение в степень (BAD) 10 (1 потоков)...
+Прогресс: 100%
+Время (power_bad): 11989 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power_bad
+Возведение в степень (BAD) 10 (2 потоков)...
+Прогресс: 100%
+Время (power_bad): 7623 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power_bad
+Возведение в степень (BAD) 10 (2 потоков)...
+Прогресс: 100%
+Время (power_bad): 7614 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power_bad
+Возведение в степень (BAD) 10 (2 потоков)...
+Прогресс: 100%
+Время (power_bad): 7773 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power_bad
+Возведение в степень (BAD) 10 (2 потоков)...
+Прогресс: 100%
+Время (power_bad): 7679 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 2 53 power_bad
+Возведение в степень (BAD) 10 (2 потоков)...
+Прогресс: 100%
+Время (power_bad): 7523 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power_bad
+Возведение в степень (BAD) 10 (3 потоков)...
+Прогресс: 100%
+Время (power_bad): 6324 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power_bad
+Возведение в степень (BAD) 10 (3 потоков)...
+Прогресс: 100%
+Время (power_bad): 6166 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power_bad
+Возведение в степень (BAD) 10 (3 потоков)...
+Прогресс: 100%
+Время (power_bad): 6258 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power_bad
+Возведение в степень (BAD) 10 (3 потоков)...
+Прогресс: 100%
+Время (power_bad): 6191 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 3 53 power_bad
+Возведение в степень (BAD) 10 (3 потоков)...
+Прогресс: 100%
+Время (power_bad): 6282 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power_bad
+Возведение в степень (BAD) 10 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 5595 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power_bad
+Возведение в степень (BAD) 10 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 5618 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power_bad
+Возведение в степень (BAD) 10 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 5563 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power_bad
+Возведение в степень (BAD) 10 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 5620 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 1000 1000 10 4 53 power_bad
+Возведение в степень (BAD) 10 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 5568 мс
+Контрольная сумма: 500397774924311
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 200 200 100 4 53 power_bad
+Возведение в степень (BAD) 100 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 608 мс
+Контрольная сумма: 19986446264921
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 200 200 100 4 53 power
+Возведение в степень 100 (4 потоков)...
+Прогресс: 100%
+Время (power): 540 мс
+Контрольная сумма: 19986446264921
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power
+Возведение в степень 1000 (4 потоков)...
+Прогресс: 100%
+Время (power): 692 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power_bad
+Возведение в степень (BAD) 1000 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 1412 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power_bad
+Возведение в степень (BAD) 1000 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 1368 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power
+Возведение в степень 1000 (4 потоков)...
+Прогресс: 100%
+Время (power): 712 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power
+Возведение в степень 1000 (4 потоков)...
+Прогресс: 100%
+Время (power): 697 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>OC_lab2.exe 100 100 1000 4 53 power_bad
+Возведение в степень (BAD) 1000 (4 потоков)...
+Прогресс: 100%
+Время (power_bad): 1429 мс
+Контрольная сумма: 4968518817144
+
+D:\prog\Microsoft Visual Studio\prog's\C++\CPPlabs\x64\Release>
